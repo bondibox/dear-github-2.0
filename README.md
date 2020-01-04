@@ -476,6 +476,7 @@ Signed,
 - Thomas Russell Murphy, @thomasrussellmurphy (iStyle Verilog maintainer)
 - Laneia Murray, @laneia (Software Engineer)
 - Ferdous Nasri, @ferbsx (Web developer, code curious and ruby monstas)
+- Jason Neely, @bondibox (Blockchain Engineer
 - Andrey Nering, @andreynering (Software Engineer)
 - Leo Nesfield, @thelmgn (Open source developer)
 - William Newell, @w-n-c (Web Developer)
